@@ -2853,5 +2853,5 @@
 #### Name: [Tarak Shaw](https://github.com/taraksh01)
 
 - Place: Kolkata, WB, India
-- Bio: In love with **JavaScript**.
+- Bio: Front-end Developer in love with javascript.
 - GitHub: [taraksh01](https://github.com/taraksh01)
